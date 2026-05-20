@@ -15,9 +15,10 @@ PCB
 
 # Case
 Made in Fusion360
-<img width="494" height="598" alt="anydesk00003" src="https://github.com/user-attachments/assets/7709fe13-ec86-4b4c-b35c-6b78e7f3aa28" />
+
 <img width="991" height="552" alt="anydesk00004" src="https://github.com/user-attachments/assets/285bc010-e117-42de-8626-18d951fdf16e" />
 <img width="1157" height="727" alt="anydesk00001" src="https://github.com/user-attachments/assets/9bed0c28-3c04-4b7c-88d0-41e26dd508b3" />
+<img width="494" height="598" alt="anydesk00003" src="https://github.com/user-attachments/assets/7709fe13-ec86-4b4c-b35c-6b78e7f3aa28" />
 
 #Firmware
 Was written by Claude Code
