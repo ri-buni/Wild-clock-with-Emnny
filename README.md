@@ -20,7 +20,7 @@ Made in Fusion360
 <img width="1157" height="727" alt="anydesk00001" src="https://github.com/user-attachments/assets/9bed0c28-3c04-4b7c-88d0-41e26dd508b3" />
 <img width="494" height="598" alt="anydesk00003" src="https://github.com/user-attachments/assets/7709fe13-ec86-4b4c-b35c-6b78e7f3aa28" />
 
-#Firmware
+# Firmware
 Was written by Claude Code
 
 # BOM
