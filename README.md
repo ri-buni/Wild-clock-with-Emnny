@@ -26,3 +26,14 @@ Was written by Claude Code
 # BOM
 
 [INMP441](https://aliexpress.ru/item/1005004862555297.html?spm=a2g2w.cart.cart_split.21.77b34aa6A5IoAS&sku_id=12000030790772841)
+[Speakers](https://aliexpress.ru/item/1005007315336158.html?spm=a2g2w.cart.cart_split.19.77b34aa6A5IoAS&sku_id=12000040230074388)
+[Amplifier chip](https://aliexpress.ru/item/1005006942750928.html?spm=a2g2w.cart.cart_split.17.77b34aa6A5IoAS&sku_id=12000057389651708)
+[ESP32 S3 WROOM 1](https://aliexpress.ru/item/1005005567013022.html?spm=a2g2w.cart.cart_split.15.77b34aa6A5IoAS&sku_id=12000033579387192)
+[Buttons](https://aliexpress.ru/item/1005007623070623.html?spm=a2g2w.cart.cart_split.13.77b34aa6A5IoAS&sku_id=12000041542638533)
+[LiPo 3.7V 2000mah](https://aliexpress.ru/item/1005008217717191.html?spm=a2g2w.cart.cart_split.11.77b34aa6A5IoAS&sku_id=12000044268208531)
+[TP4056 chip](https://aliexpress.ru/item/32714366180.html?spm=a2g2w.cart.cart_split.9.77b34aa6A5IoAS&sku_id=61056856324)
+[LDO](https://aliexpress.ru/item/1005004159688937.html?spm=a2g2w.cart.cart_split.8.77b34aa6A5IoAS&sku_id=12000028232628606)
+[Display](https://aliexpress.ru/item/1005008770450001.html?spm=a2g2w.cart.cart_split.6.77b34aa6A5IoAS&sku_id=12000046598711076)
+[USBLC6 2SC6](https://aliexpress.ru/item/1005009468432448.html?spm=a2g2w.cart.cart_split.4.77b34aa6A5IoAS&sku_id=12000049196393604)
+[USB Type C connector](https://aliexpress.ru/item/1005007694777041.html?spm=a2g2w.cart.cart_split.2.77b34aa6A5IoAS&sku_id=12000041875830363)
+Total ~35$
