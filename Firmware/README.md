@@ -1,3 +1,5 @@
+# README AND WHOLE CODE WAS MADE BY CLAUDE CODE
+
 # Bunbun — ESP32-S3 AI Clock
 
 Tiny AI bunny that lives in your clock. Talks to you, sasses you, sleeps when
