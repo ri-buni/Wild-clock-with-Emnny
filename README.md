@@ -25,4 +25,4 @@ Was written by Claude Code
 
 # BOM
 
-(INMP441)[https://aliexpress.ru/item/1005004862555297.html?spm=a2g2w.cart.cart_split.21.77b34aa6A5IoAS&sku_id=12000030790772841]
+[INMP441](https://aliexpress.ru/item/1005004862555297.html?spm=a2g2w.cart.cart_split.21.77b34aa6A5IoAS&sku_id=12000030790772841)
